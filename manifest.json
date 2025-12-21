@@ -1,0 +1,16 @@
+{
+  "name": "Chess Clock",
+  "short_name": "ChessClock",
+  "description": "PWA Chess Timer for offline play",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
